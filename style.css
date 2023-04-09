@@ -45,3 +45,8 @@ fieldset {
     display: flex;
     flex-direction: column;
 }
+
+input {
+    background-color: var(--background-color);
+    display: block;
+}
